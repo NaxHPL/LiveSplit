@@ -4589,6 +4589,18 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
+      <Game>Call of Cthulhu: The Official Video Game</Game>
+      <Game>CoC: The Official Video Game</Game>
+      <Game>Call of Cthulhu 2018</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/NaxHPL/CoC2018-Load-Remover/master/coc2018.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Remover (by NaxHPL)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>Far Cry 1</Game>
       <Game>Far Cry</Game>
       <Game>FarCry</Game>
